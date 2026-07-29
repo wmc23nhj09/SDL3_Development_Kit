@@ -15,4 +15,10 @@ This repository exists to provide a reusable SDL3 setup so projects do not need 
 
 ## Usage
 
-Clone or download this repository and configure your project to reference these files.
+This repository contains shared SDL3 development files used by my projects.
+
+1. Clone this repository.
+2. Point your project include path to `/include`.
+3. Point your linker path to `/lib`.
+4. Place required DLL files beside your executable.
+
