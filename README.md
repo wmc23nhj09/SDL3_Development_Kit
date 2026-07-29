@@ -1,7 +1,18 @@
-# SDL3_Include_Library_DLL_MASTER_FOLDER
-A collaborative master folder for SDL Header, Library, and DLL files for ease of access and less scavanging for files
+# SDL3 Development Kit
 
-This is a repository to prevent searching for a dll, lib, or h file, as well as to prevent useless redownloads of already packaged include and lib files, saving space and time!
-One download serves all!
+A central collection of SDL3 headers, libraries, and DLL files used across my projects.
 
-If you have any files that have are not included, feel free to submit a pull request!
+## Purpose
+
+This repository exists to provide a reusable SDL3 setup so projects do not need to repeatedly download and configure the same files.
+
+## Contents
+
+- SDL3 Headers
+- SDL3 Libraries
+- SDL3 Runtime DLLs
+- Documentation
+
+## Usage
+
+Clone or download this repository and configure your project to reference these files.
