@@ -21,18 +21,3 @@ This repository contains shared SDL3 development files used by my projects.
 2. Point your project include path to `/include`.
 3. Point your linker path to `/lib`.
 4. Place required DLL files beside your executable.
-
-## Structure
-
-SDL3_Development_Kit
-│
-├── include/
-│   └── SDL3 headers
-│
-├── lib/
-│   └── linker files
-│
-├── bin/
-│   └── runtime DLLs
-│
-└── docs/
