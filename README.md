@@ -1,6 +1,6 @@
 # SDL3 Development Kit
 
-A central collection of SDL3 headers, libraries, and DLL files used across my projects.
+A central collection of SDL3 headers, linker, and DLL files used across my projects.
 
 ## Purpose
 
@@ -22,3 +22,17 @@ This repository contains shared SDL3 development files used by my projects.
 3. Point your linker path to `/lib`.
 4. Place required DLL files beside your executable.
 
+## Structure
+
+SDL3_Development_Kit
+│
+├── include/
+│   └── SDL3 headers
+│
+├── lib/
+│   └── linker files
+│
+├── bin/
+│   └── runtime DLLs
+│
+└── docs/
